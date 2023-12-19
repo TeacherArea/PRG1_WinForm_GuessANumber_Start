@@ -1,0 +1,17 @@
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\bin\Debug\net8.0-windows\PRG1_GuessANumber_Start.exe
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\bin\Debug\net8.0-windows\PRG1_GuessANumber_Start.deps.json
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\bin\Debug\net8.0-windows\PRG1_GuessANumber_Start.runtimeconfig.json
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\bin\Debug\net8.0-windows\PRG1_GuessANumber_Start.dll
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\bin\Debug\net8.0-windows\PRG1_GuessANumber_Start.pdb
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.Form1.resources
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.Properties.Resources.resources
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.csproj.GenerateResource.cache
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.AssemblyInfoInputs.cache
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.AssemblyInfo.cs
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.csproj.CoreCompileInputs.cache
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.dll
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\refint\PRG1_GuessANumber_Start.dll
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.pdb
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\PRG1_GuessANumber_Start.genruntimeconfig.cache
+C:\code\TeacherArea\prg1\PRG1_GuessANumber_Start\PRG1_GuessANumber_Start\obj\Debug\net8.0-windows\ref\PRG1_GuessANumber_Start.dll

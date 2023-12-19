@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRG1_GuessANumber_Start/1.0.0": {
+        "runtime": {
+          "PRG1_GuessANumber_Start.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG1_GuessANumber_Start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
